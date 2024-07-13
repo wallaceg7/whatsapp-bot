@@ -3,6 +3,9 @@
 
 <p>Este projeto consiste em um software desenvolvido em Java utilizando o framework Swing para a interface gráfica. O objetivo principal é enviar mensagens para contatos do WhatsApp de forma automatizada, utilizando o Selenium para interagir com o navegador.</p>
 
+<img src="Foto_Inicial.png" alt="Foto inicial">
+<img src="Foto_3.png" alt="Foto inicial" >
+
 ## Funcionalidades Principais
 <ul>
   <li>Interface Gráfica Intuitiva: Desenvolvida com Swing para facilitar a interação do usuário.</li>
