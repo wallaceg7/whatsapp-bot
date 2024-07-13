@@ -42,6 +42,7 @@ Automação:
 Importante
 <ul>
   <li>Este projeto foi desenvolvido para fins educacionais e pessoais. Não é recomendado o uso para spam ou atividades não autorizadas.</li>
+  <li>Foi utilizado o Java 21, Apache IDE 22, Chrome Versão 126.0.6478.127 e ChromeDriver Versão 126.0.6478.126.</li>
   <li>Assegure-se de estar em conformidade com os Termos de Serviço do WhatsApp ao utilizar este software.</li>
 </ul>
 
