@@ -1,4 +1,4 @@
-# WhatsApp Bot
+# WhatsApp Bot - Google Chrome
 ## Descrição
 
 <p>Este projeto consiste em um software desenvolvido em Java utilizando o framework Swing para a interface gráfica. O objetivo principal é enviar mensagens para contatos do WhatsApp de forma automatizada, utilizando o Selenium para interagir com o navegador.</p>
@@ -24,6 +24,7 @@
 Configuração Inicial:
 <ul>
   <li>Clone o repositório e abra o projeto em seu ambiente de desenvolvimento Java.</li>
+  <li>Download do Webdriver: <a href="https://getwebdriver.com/">ChromeDriver</a></li>
   <li>Certifique-se de ter instalado o JDK e configurado o Selenium WebDriver para o navegador de sua escolha.</li>
 </ul>
 
